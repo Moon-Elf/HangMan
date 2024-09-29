@@ -18,7 +18,7 @@ A fun and interactive multiplayer Hangman game built with Python and Pygame. Pla
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/multiplayer-hangman.git
+git clone https://github.com/Moon-Elf/Hangman.git
 
 
 2. Install the required dependencies:
